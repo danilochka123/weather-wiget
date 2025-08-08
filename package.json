@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://danilochka123.github.io/weather-widget-react",
+  "homepage": "https://danilochka123.github.io/weather-widget",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
